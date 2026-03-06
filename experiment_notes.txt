@@ -1,0 +1,16 @@
+
+# SOC Investigation Utilities
+
+A small collection of scripts I built while working in a SOC environment.
+
+These tools help automate small OSINT and investigation workflows.
+
+⚠️ Some files in this repository are experimental and may change.
+
+## Tools
+
+investigate.py – basic log parser for investigation notes.
+
+## Notes
+
+Some archived investigation samples are stored in archive.txt.
